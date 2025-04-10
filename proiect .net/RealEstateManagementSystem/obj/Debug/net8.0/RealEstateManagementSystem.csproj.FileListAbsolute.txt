@@ -1,6 +1,0 @@
-C:\Users\Luki\Desktop\proiect .net\RealEstateManagementSystem\obj\Debug\net8.0\RealEstateManagementSystem.csproj.AssemblyReference.cache
-C:\Users\Luki\Desktop\proiect .net\RealEstateManagementSystem\obj\Debug\net8.0\RealEstateManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Luki\Desktop\proiect .net\RealEstateManagementSystem\obj\Debug\net8.0\RealEstateManagementSystem.AssemblyInfoInputs.cache
-C:\Users\Luki\Desktop\proiect .net\RealEstateManagementSystem\obj\Debug\net8.0\RealEstateManagementSystem.AssemblyInfo.cs
-C:\Users\Luki\Desktop\proiect .net\RealEstateManagementSystem\obj\Debug\net8.0\RealEstateManagementSystem.csproj.CoreCompileInputs.cache
-C:\Users\Luki\Desktop\proiect .net\RealEstateManagementSystem\obj\Debug\net8.0\RealEstateManagementSystem.MvcApplicationPartsAssemblyInfo.cache
